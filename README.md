@@ -7,7 +7,7 @@
 ## 2. Mes connaisances en tant que dev junior 💪
   ### Front-End :
   - HTML, CSS, JS
-  - Tailwin
+  - Tailwind
   - React / NextJS
     
   ### Back-End (à venir):
