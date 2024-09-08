@@ -6,12 +6,15 @@
   et devine quoi j'ai obtenu mon diplome en décembre 2023 cool non ? 🤗
 ## 2. Mes connaisances en tant que dev junior 💪
   ### Front-End :
-  - Figma
   - HTML, CSS, JS
-  - Angular
-  ### Back-End :
-  - PHP
-  - MySQL
-  - Symfony
+  - Tailwin
+  - React / NextJS
+    
+  ### Back-End (à venir):
+  - NodeJS
+  - Express
+  - NestJS
+  - PostgreSQL
+    
 # 📫 Restons Connecter 🤝
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gregory-tahir-6858b3249/)
