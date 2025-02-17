@@ -8,6 +8,7 @@
   ### Front-End :
   - HTML, CSS, JS
   - Tailwind
+  - Angular
   - React / NextJS
     
   ### Back-End (à venir):
