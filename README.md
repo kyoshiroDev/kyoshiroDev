@@ -12,9 +12,8 @@
   - Angular
     
   ### Back-End (à venir):
-  - NodeJS
-  - Express
   - NestJS
+  - Prisma
   - PostgreSQL
     
 # 📫 Restons Connecter 🤝
